@@ -1,0 +1,7 @@
+*****************Evaluation of TCP throughput performance in Wireless Mesh Network************************
+
+The project is based on the implementation of Wireless Mesh Network using 802.11s protocol along with TCP agents CUBIC and New Reno. 
+
+The implemented Cubic and New Reno Algorithm are verified with the simulator and the resulted throughput is compared and validated. 
+
+The Results of Cubic over wireless Mesh Network outperforms New Reno.
