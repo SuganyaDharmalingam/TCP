@@ -5,3 +5,5 @@ The project is based on the implementation of Wireless Mesh Network using 802.11
 The implemented Cubic and New Reno Algorithm are verified with the simulator and the resulted throughput is compared and validated. 
 
 The Results of Cubic over wireless Mesh Network outperforms New Reno.
+
+It requires NS-3 simulator.
